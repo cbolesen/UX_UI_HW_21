@@ -1,8 +1,8 @@
 /* TYPOGRAPHY */
 h1{
   font-size: 30px;
-  padding-top: 100px;
-  padding-bottom: 70px;
+  padding-top: 50px;
+  padding-bottom: 30px;
   padding-left: 0px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -58,7 +58,7 @@ p {
   position: relative;
   padding: 10px;
   margin-left: 30px;
-}
+ }
 .active:after {
   content: "";
   position: absolute;
@@ -68,7 +68,6 @@ p {
   height: 2px;
   background-color: rgb(189, 155, 175);
 }
-/* VERTICAL NAV SECTION */
 
 .nav-link {
   position: relative;
@@ -79,19 +78,23 @@ p {
 
 /* MAIN CONTENT SECTION */
 
-.img {
-  padding-bottom: 100px;
+.heroimage {
+  width: 80%;
+  height: auto;
+  margin-left: 100px;
+}
+.content {
+  margin-left: 50px;
+}
+.row {
+  padding-bottom: 35px;
 }
 
-
-
  /* FOOTER SECTION */
- .connect{
-  background-color: rgb(34, 28, 1);
-  height: 100px; 
-  padding: 10px;
-  margin-top: 100px;
- }
+.container {
+  width: 100%;
+}
+
 
 
 
