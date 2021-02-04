@@ -83,16 +83,15 @@ p {
   height: auto;
   margin-left: 100px;
 }
-.content {
-  margin-left: 50px;
-}
 .row {
   padding-bottom: 35px;
 }
 
  /* FOOTER SECTION */
-.container {
-  width: 100%;
+
+.content {
+  margin-left: 200px;
+  width: 70%;
 }
 
 
